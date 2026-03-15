@@ -85,6 +85,12 @@ Contributing
 For bug reports, feature requests, comments, patches use the GitHub issue
 tracker and/or pull request system.
 
+This project does not accept code produced from generative AI tools due to the
+indeterminate copyright license of such code. Generative AI use in
+contributions must be fully disclosed and will be rejected unless there are no
+copyright concerns. Contributions that make use of generative AI for
+communication with the developers of this project will be rejected.
+
 Contributors (made with `contrib.rocks <https://contrib.rocks>`_):
 
 .. image:: https://contrib.rocks/image?repo=mechmotum/cyipopt
